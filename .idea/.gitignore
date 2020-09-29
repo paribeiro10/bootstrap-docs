@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/$CACHE_FILE$
+/bootstrap-docs.iml
+/checkstyle-idea.xml
+/misc.xml
+/compiler.xml
+/modules.xml
+/vcs.xml
